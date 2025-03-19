@@ -1,6 +1,6 @@
 # Mail Generator
 
-Mail Generator is a Python-based application that extracts job postings from career pages and generates tailored job application emails using language models.
+Mail Generator is a Python-based application that extracts job postings from career pages and generates tailored job application emails using large language models.
 
 ## Features
 
