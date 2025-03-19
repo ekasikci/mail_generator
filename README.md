@@ -25,9 +25,12 @@ Mail Generator is a Python-based application that extracts job postings from car
    ```
 2. Create and activate a virtual environment:
    ```sh
-   python -m venv venv
-   # On Windows:
-   venv\Scripts\activate
+    python -m venv venv
+    # On Windows:
+    venv\Scripts\activate
+    # On macOS/Linux:
+    source venv/bin/activate
+
    ```
 3. Install the required dependencies:
    ```sh
